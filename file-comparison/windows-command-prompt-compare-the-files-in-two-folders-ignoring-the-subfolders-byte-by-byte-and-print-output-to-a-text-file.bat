@@ -1,0 +1,1 @@
+fc /b "full-path-1\*" "full-path-2\*" > "text-file-full-path"

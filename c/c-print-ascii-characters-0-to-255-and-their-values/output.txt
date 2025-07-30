@@ -1,0 +1,772 @@
+Each right delimiter is followed by 3 newline characters. This line is also followed by 3 newline characters.
+
+
+0: [left delimiter] [right delimiter]
+
+
+1: [left delimiter]☺[right delimiter]
+
+
+2: [left delimiter]☻[right delimiter]
+
+
+3: [left delimiter]♥[right delimiter]
+
+
+4: [left delimiter]♦[right delimiter]
+
+
+5: [left delimiter]♣[right delimiter]
+
+
+6: [left delimiter]♠[right delimiter]
+
+
+7: [left delimiter][right delimiter]
+
+
+8: [left delimiter[right delimiter]
+
+
+9: [left delimiter]     [right delimiter]
+
+
+10: [left delimiter]
+[right delimiter]
+
+
+11: [left delimiter]♂[right delimiter]
+
+
+12: [left delimiter]♀[right delimiter]
+
+
+[right delimiter]er]
+
+
+14: [left delimiter]♫[right delimiter]
+
+
+15: [left delimiter]☼[right delimiter]
+
+
+16: [left delimiter]►[right delimiter]
+
+
+17: [left delimiter]◄[right delimiter]
+
+
+18: [left delimiter]↕[right delimiter]
+
+
+19: [left delimiter]‼[right delimiter]
+
+
+20: [left delimiter]¶[right delimiter]
+
+
+21: [left delimiter]§[right delimiter]
+
+
+22: [left delimiter]▬[right delimiter]
+
+
+23: [left delimiter]↨[right delimiter]
+
+
+24: [left delimiter]↑[right delimiter]
+
+
+25: [left delimiter]↓[right delimiter]
+
+
+26: [left delimiter]→[right delimiter]
+
+
+27: [left delimiter]←[right delimiter]
+
+
+28: [left delimiter]∟[right delimiter]
+
+
+29: [left delimiter]↔[right delimiter]
+
+
+30: [left delimiter]▲[right delimiter]
+
+
+31: [left delimiter]▼[right delimiter]
+
+
+32: [left delimiter] [right delimiter]
+
+
+33: [left delimiter]![right delimiter]
+
+
+34: [left delimiter]"[right delimiter]
+
+
+35: [left delimiter]#[right delimiter]
+
+
+36: [left delimiter]$[right delimiter]
+
+
+37: [left delimiter]%[right delimiter]
+
+
+38: [left delimiter]&[right delimiter]
+
+
+39: [left delimiter]'[right delimiter]
+
+
+40: [left delimiter]([right delimiter]
+
+
+41: [left delimiter])[right delimiter]
+
+
+42: [left delimiter]*[right delimiter]
+
+
+43: [left delimiter]+[right delimiter]
+
+
+44: [left delimiter],[right delimiter]
+
+
+45: [left delimiter]-[right delimiter]
+
+
+46: [left delimiter].[right delimiter]
+
+
+47: [left delimiter]/[right delimiter]
+
+
+48: [left delimiter]0[right delimiter]
+
+
+49: [left delimiter]1[right delimiter]
+
+
+50: [left delimiter]2[right delimiter]
+
+
+51: [left delimiter]3[right delimiter]
+
+
+52: [left delimiter]4[right delimiter]
+
+
+53: [left delimiter]5[right delimiter]
+
+
+54: [left delimiter]6[right delimiter]
+
+
+55: [left delimiter]7[right delimiter]
+
+
+56: [left delimiter]8[right delimiter]
+
+
+57: [left delimiter]9[right delimiter]
+
+
+58: [left delimiter]:[right delimiter]
+
+
+59: [left delimiter];[right delimiter]
+
+
+60: [left delimiter]<[right delimiter]
+
+
+61: [left delimiter]=[right delimiter]
+
+
+62: [left delimiter]>[right delimiter]
+
+
+63: [left delimiter]?[right delimiter]
+
+
+64: [left delimiter]@[right delimiter]
+
+
+65: [left delimiter]A[right delimiter]
+
+
+66: [left delimiter]B[right delimiter]
+
+
+67: [left delimiter]C[right delimiter]
+
+
+68: [left delimiter]D[right delimiter]
+
+
+69: [left delimiter]E[right delimiter]
+
+
+70: [left delimiter]F[right delimiter]
+
+
+71: [left delimiter]G[right delimiter]
+
+
+72: [left delimiter]H[right delimiter]
+
+
+73: [left delimiter]I[right delimiter]
+
+
+74: [left delimiter]J[right delimiter]
+
+
+75: [left delimiter]K[right delimiter]
+
+
+76: [left delimiter]L[right delimiter]
+
+
+77: [left delimiter]M[right delimiter]
+
+
+78: [left delimiter]N[right delimiter]
+
+
+79: [left delimiter]O[right delimiter]
+
+
+80: [left delimiter]P[right delimiter]
+
+
+81: [left delimiter]Q[right delimiter]
+
+
+82: [left delimiter]R[right delimiter]
+
+
+83: [left delimiter]S[right delimiter]
+
+
+84: [left delimiter]T[right delimiter]
+
+
+85: [left delimiter]U[right delimiter]
+
+
+86: [left delimiter]V[right delimiter]
+
+
+87: [left delimiter]W[right delimiter]
+
+
+88: [left delimiter]X[right delimiter]
+
+
+89: [left delimiter]Y[right delimiter]
+
+
+90: [left delimiter]Z[right delimiter]
+
+
+91: [left delimiter][[right delimiter]
+
+
+92: [left delimiter]\[right delimiter]
+
+
+93: [left delimiter]][right delimiter]
+
+
+94: [left delimiter]^[right delimiter]
+
+
+95: [left delimiter]_[right delimiter]
+
+
+96: [left delimiter]`[right delimiter]
+
+
+97: [left delimiter]a[right delimiter]
+
+
+98: [left delimiter]b[right delimiter]
+
+
+99: [left delimiter]c[right delimiter]
+
+
+100: [left delimiter]d[right delimiter]
+
+
+101: [left delimiter]e[right delimiter]
+
+
+102: [left delimiter]f[right delimiter]
+
+
+103: [left delimiter]g[right delimiter]
+
+
+104: [left delimiter]h[right delimiter]
+
+
+105: [left delimiter]i[right delimiter]
+
+
+106: [left delimiter]j[right delimiter]
+
+
+107: [left delimiter]k[right delimiter]
+
+
+108: [left delimiter]l[right delimiter]
+
+
+109: [left delimiter]m[right delimiter]
+
+
+110: [left delimiter]n[right delimiter]
+
+
+111: [left delimiter]o[right delimiter]
+
+
+112: [left delimiter]p[right delimiter]
+
+
+113: [left delimiter]q[right delimiter]
+
+
+114: [left delimiter]r[right delimiter]
+
+
+115: [left delimiter]s[right delimiter]
+
+
+116: [left delimiter]t[right delimiter]
+
+
+117: [left delimiter]u[right delimiter]
+
+
+118: [left delimiter]v[right delimiter]
+
+
+119: [left delimiter]w[right delimiter]
+
+
+120: [left delimiter]x[right delimiter]
+
+
+121: [left delimiter]y[right delimiter]
+
+
+122: [left delimiter]z[right delimiter]
+
+
+123: [left delimiter]{[right delimiter]
+
+
+124: [left delimiter]|[right delimiter]
+
+
+125: [left delimiter]}[right delimiter]
+
+
+126: [left delimiter]~[right delimiter]
+
+
+127: [left delimiter]⌂[right delimiter]
+
+
+128: [left delimiter]Ç[right delimiter]
+
+
+129: [left delimiter]ü[right delimiter]
+
+
+130: [left delimiter]é[right delimiter]
+
+
+131: [left delimiter]â[right delimiter]
+
+
+132: [left delimiter]ä[right delimiter]
+
+
+133: [left delimiter]à[right delimiter]
+
+
+134: [left delimiter]å[right delimiter]
+
+
+135: [left delimiter]ç[right delimiter]
+
+
+136: [left delimiter]ê[right delimiter]
+
+
+137: [left delimiter]ë[right delimiter]
+
+
+138: [left delimiter]è[right delimiter]
+
+
+139: [left delimiter]ï[right delimiter]
+
+
+140: [left delimiter]î[right delimiter]
+
+
+141: [left delimiter]ì[right delimiter]
+
+
+142: [left delimiter]Ä[right delimiter]
+
+
+143: [left delimiter]Å[right delimiter]
+
+
+144: [left delimiter]É[right delimiter]
+
+
+145: [left delimiter]æ[right delimiter]
+
+
+146: [left delimiter]Æ[right delimiter]
+
+
+147: [left delimiter]ô[right delimiter]
+
+
+148: [left delimiter]ö[right delimiter]
+
+
+149: [left delimiter]ò[right delimiter]
+
+
+150: [left delimiter]û[right delimiter]
+
+
+151: [left delimiter]ù[right delimiter]
+
+
+152: [left delimiter]ÿ[right delimiter]
+
+
+153: [left delimiter]Ö[right delimiter]
+
+
+154: [left delimiter]Ü[right delimiter]
+
+
+155: [left delimiter]¢[right delimiter]
+
+
+156: [left delimiter]£[right delimiter]
+
+
+157: [left delimiter]¥[right delimiter]
+
+
+158: [left delimiter]₧[right delimiter]
+
+
+159: [left delimiter]ƒ[right delimiter]
+
+
+160: [left delimiter]á[right delimiter]
+
+
+161: [left delimiter]í[right delimiter]
+
+
+162: [left delimiter]ó[right delimiter]
+
+
+163: [left delimiter]ú[right delimiter]
+
+
+164: [left delimiter]ñ[right delimiter]
+
+
+165: [left delimiter]Ñ[right delimiter]
+
+
+166: [left delimiter]ª[right delimiter]
+
+
+167: [left delimiter]º[right delimiter]
+
+
+168: [left delimiter]¿[right delimiter]
+
+
+169: [left delimiter]⌐[right delimiter]
+
+
+170: [left delimiter]¬[right delimiter]
+
+
+171: [left delimiter]½[right delimiter]
+
+
+172: [left delimiter]¼[right delimiter]
+
+
+173: [left delimiter]¡[right delimiter]
+
+
+174: [left delimiter]«[right delimiter]
+
+
+175: [left delimiter]»[right delimiter]
+
+
+176: [left delimiter]░[right delimiter]
+
+
+177: [left delimiter]▒[right delimiter]
+
+
+178: [left delimiter]▓[right delimiter]
+
+
+179: [left delimiter]│[right delimiter]
+
+
+180: [left delimiter]┤[right delimiter]
+
+
+181: [left delimiter]╡[right delimiter]
+
+
+182: [left delimiter]╢[right delimiter]
+
+
+183: [left delimiter]╖[right delimiter]
+
+
+184: [left delimiter]╕[right delimiter]
+
+
+185: [left delimiter]╣[right delimiter]
+
+
+186: [left delimiter]║[right delimiter]
+
+
+187: [left delimiter]╗[right delimiter]
+
+
+188: [left delimiter]╝[right delimiter]
+
+
+189: [left delimiter]╜[right delimiter]
+
+
+190: [left delimiter]╛[right delimiter]
+
+
+191: [left delimiter]┐[right delimiter]
+
+
+192: [left delimiter]└[right delimiter]
+
+
+193: [left delimiter]┴[right delimiter]
+
+
+194: [left delimiter]┬[right delimiter]
+
+
+195: [left delimiter]├[right delimiter]
+
+
+196: [left delimiter]─[right delimiter]
+
+
+197: [left delimiter]┼[right delimiter]
+
+
+198: [left delimiter]╞[right delimiter]
+
+
+199: [left delimiter]╟[right delimiter]
+
+
+200: [left delimiter]╚[right delimiter]
+
+
+201: [left delimiter]╔[right delimiter]
+
+
+202: [left delimiter]╩[right delimiter]
+
+
+203: [left delimiter]╦[right delimiter]
+
+
+204: [left delimiter]╠[right delimiter]
+
+
+205: [left delimiter]═[right delimiter]
+
+
+206: [left delimiter]╬[right delimiter]
+
+
+207: [left delimiter]╧[right delimiter]
+
+
+208: [left delimiter]╨[right delimiter]
+
+
+209: [left delimiter]╤[right delimiter]
+
+
+210: [left delimiter]╥[right delimiter]
+
+
+211: [left delimiter]╙[right delimiter]
+
+
+212: [left delimiter]╘[right delimiter]
+
+
+213: [left delimiter]╒[right delimiter]
+
+
+214: [left delimiter]╓[right delimiter]
+
+
+215: [left delimiter]╫[right delimiter]
+
+
+216: [left delimiter]╪[right delimiter]
+
+
+217: [left delimiter]┘[right delimiter]
+
+
+218: [left delimiter]┌[right delimiter]
+
+
+219: [left delimiter]█[right delimiter]
+
+
+220: [left delimiter]▄[right delimiter]
+
+
+221: [left delimiter]▌[right delimiter]
+
+
+222: [left delimiter]▐[right delimiter]
+
+
+223: [left delimiter]▀[right delimiter]
+
+
+224: [left delimiter]α[right delimiter]
+
+
+225: [left delimiter]ß[right delimiter]
+
+
+226: [left delimiter]Γ[right delimiter]
+
+
+227: [left delimiter]π[right delimiter]
+
+
+228: [left delimiter]Σ[right delimiter]
+
+
+229: [left delimiter]σ[right delimiter]
+
+
+230: [left delimiter]µ[right delimiter]
+
+
+231: [left delimiter]τ[right delimiter]
+
+
+232: [left delimiter]Φ[right delimiter]
+
+
+233: [left delimiter]Θ[right delimiter]
+
+
+234: [left delimiter]Ω[right delimiter]
+
+
+235: [left delimiter]δ[right delimiter]
+
+
+236: [left delimiter]∞[right delimiter]
+
+
+237: [left delimiter]φ[right delimiter]
+
+
+238: [left delimiter]ε[right delimiter]
+
+
+239: [left delimiter]∩[right delimiter]
+
+
+240: [left delimiter]≡[right delimiter]
+
+
+241: [left delimiter]±[right delimiter]
+
+
+242: [left delimiter]≥[right delimiter]
+
+
+243: [left delimiter]≤[right delimiter]
+
+
+244: [left delimiter]⌠[right delimiter]
+
+
+245: [left delimiter]⌡[right delimiter]
+
+
+246: [left delimiter]÷[right delimiter]
+
+
+247: [left delimiter]≈[right delimiter]
+
+
+248: [left delimiter]°[right delimiter]
+
+
+249: [left delimiter]∙[right delimiter]
+
+
+250: [left delimiter]·[right delimiter]
+
+
+251: [left delimiter]√[right delimiter]
+
+
+252: [left delimiter]ⁿ[right delimiter]
+
+
+253: [left delimiter]²[right delimiter]
+
+
+254: [left delimiter]■[right delimiter]
+
+
+255: [left delimiter] [right delimiter]
+
+

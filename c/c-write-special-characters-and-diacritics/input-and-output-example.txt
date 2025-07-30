@@ -1,0 +1,11 @@
+ăĂîÎAâÂșȘțȚ
+@
+1
+2
+ă
+ș
+aaaî
+Enter an integer: 3
+3
+Enter a string: test
+test

@@ -1,0 +1,49 @@
+Input and output example:
+0. Close
+1. Generate example of input text file
+2. Get input from text file
+3. Get input from terminal
+Select option: 1
+
+Enter the absolute path of the file name to create, including the file name and extension: C:\test\input-example.txt
+Example file generated successfully at: C:\test\input-example.txt
+
+0. Close
+1. Generate example of input text file
+2. Get input from text file
+3. Get input from terminal
+Select option: 2
+
+Enter the absolute path of the input file, including the file name and extension: C:\test\input-example.txt
+
+0. Close
+1. Print output in text file
+2. Print output in terminal
+Select option: 1
+
+Enter the absolute path of the output file, including the file name and extension: C:\test\output-example.txt
+Output written successfully to: C:\test\output-example.txt
+
+0. Close
+1. Generate example of input text file
+2. Get input from text file
+3. Get input from terminal
+Select option: 3
+
+a = 15
+b = 20
+
+0. Close
+1. Print output in text file
+2. Print output in terminal
+Select option: 2
+
+sum = 35
+
+0. Close
+1. Generate example of input text file
+2. Get input from text file
+3. Get input from terminal
+Select option: 0
+
+You closed the program.
