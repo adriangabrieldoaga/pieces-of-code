@@ -1,0 +1,29 @@
+A (crystal length) = 71.1 mm
+
+B (crystal diameter) = 56.8 mm
+
+C (crystal hole depth) = 57.7 mm
+
+D (crystal hole diameter) = 20.6 mm
+
+E (endcap well depth) = 51.3 mm
+
+F (endcap well diameter) = 15.5 mm
+
+G (endcap to crystal gap) = 9 mm
+
+ 
+
+1 (endcap top thickness) = 2 mm [Aluminium]
+
+2 (endcap side thickness) = 1.6 mm [Aluminium]
+
+3 (endcap well side thickness) = 0.5 mm [Aluminium]
+
+4 (endcap well bottom thickness) = 2 mm [Aluminium]
+
+5 (mount cup thickness) = 1.6 mm [Aluminium]
+
+6 (crystal top and side dead layer) = 0.7 mm [Ge/Li]
+
+7 (crystal hole inner and bottom dead layer) = 0.3 µm [Ge/B]
